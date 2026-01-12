@@ -8,6 +8,10 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pillow = "<10"
+python-sane = "^2.9.2"
+pytesseract = "^0.3.13"
+zbarlight = "^3.0"
 
 
 [build-system]
